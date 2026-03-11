@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog | </title>
+    <link>https://edzagidullina108.github.io/ru/blog/</link>
+      <atom:link href="https://edzagidullina108.github.io/ru/blog/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blog</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Tue, 10 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://edzagidullina108.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Blog</title>
+      <link>https://edzagidullina108.github.io/ru/blog/</link>
+    </image>
+    
+    <item>
+      <title>Учебная неделя студентки</title>
+      <link>https://edzagidullina108.github.io/ru/blog/01/</link>
+      <pubDate>Tue, 10 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://edzagidullina108.github.io/ru/blog/01/</guid>
+      <description>&lt;h2 id=&#34;-моя-учебная-неделя&#34;&gt;📅 Моя учебная неделя&lt;/h2&gt;
+&lt;p&gt;Эта неделя в университете прошла активно и продуктивно. Каждый день приносил новые знания, интересные задания и возможность лучше понять выбранную профессию.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🎓 На лекциях по &lt;strong&gt;бизнес-информатике&lt;/strong&gt; мы обсуждали роль информационных технологий в развитии современных компаний и то, как цифровые решения помогают улучшать бизнес-процессы.&lt;/li&gt;
+&lt;li&gt;💻 На практических занятиях я продолжила изучать &lt;strong&gt;основы программирования&lt;/strong&gt;, постепенно лучше понимая логику работы кода и структуру программ.&lt;/li&gt;
+&lt;li&gt;📊 Также уделили внимание &lt;strong&gt;анализу данных&lt;/strong&gt; — мы учились работать с информацией и делать простые выводы на основе полученных данных.&lt;/li&gt;
+&lt;li&gt;🌐 На одном из занятий обсуждали тему &lt;strong&gt;цифровой экономики&lt;/strong&gt; и влияние технологий на развитие общества и бизнеса.&lt;/li&gt;
+&lt;li&gt;📚 Много времени заняла самостоятельная работа: подготовка заданий, чтение материалов и повторение тем после лекций.&lt;/li&gt;
+&lt;li&gt;🚶‍♀️ В свободное время старалась немного отдыхать, гулять и переключаться, чтобы сохранять энергию и продуктивность.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Каждая учебная неделя помогает мне лучше понять направление &lt;strong&gt;«Бизнес-информатика»&lt;/strong&gt; и постепенно формировать навыки, которые пригодятся в будущей профессиональной деятельности.&lt;/p&gt;
+&lt;p&gt;Новые знания, опыт и небольшие ежедневные шаги делают путь обучения особенно интересным и мотивирующим. ✨&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
