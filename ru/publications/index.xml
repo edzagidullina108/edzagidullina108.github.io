@@ -5,12 +5,39 @@
     <link>https://edzagidullina108.github.io/ru/publications/</link>
       <atom:link href="https://edzagidullina108.github.io/ru/publications/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Wed, 11 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sun, 29 Mar 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://edzagidullina108.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
       <title>Publications</title>
       <link>https://edzagidullina108.github.io/ru/publications/</link>
     </image>
+    
+    <item>
+      <title>Язык разметки Markdown</title>
+      <link>https://edzagidullina108.github.io/ru/publications/02/</link>
+      <pubDate>Sun, 29 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>https://edzagidullina108.github.io/ru/publications/02/</guid>
+      <description>&lt;h2 id=&#34;-язык-разметки-markdown&#34;&gt;✍️ Язык разметки Markdown&lt;/h2&gt;
+&lt;p&gt;На этой неделе я познакомилась с языком разметки &lt;strong&gt;Markdown&lt;/strong&gt; — простым и удобным инструментом для оформления текста. Он широко используется в учебе, программировании и работе с документацией.&lt;/p&gt;
+&lt;p&gt;Markdown позволяет быстро структурировать текст без сложных инструментов форматирования. Всё оформление выполняется с помощью специальных символов, что делает процесс написания более удобным и понятным.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;📝 С помощью Markdown можно создавать &lt;strong&gt;заголовки, списки и абзацы&lt;/strong&gt;, делая текст более структурированным.&lt;/li&gt;
+&lt;li&gt;💻 Он активно применяется в &lt;strong&gt;IT-сфере&lt;/strong&gt;, например, при написании документации, README-файлов и заметок.&lt;/li&gt;
+&lt;li&gt;🔗 Можно добавлять &lt;strong&gt;ссылки, изображения и код&lt;/strong&gt;, что особенно полезно при работе с учебными материалами.&lt;/li&gt;
+&lt;li&gt;⚡ Простота синтаксиса позволяет сосредоточиться на содержании, а не на сложном форматировании.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-примеры-синтаксиса&#34;&gt;📌 Примеры синтаксиса&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Заголовок: &lt;code&gt;# Заголовок&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Список: &lt;code&gt;- элемент&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Жирный текст: &lt;code&gt;**текст**&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Курсив: &lt;code&gt;*текст*&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Ссылка: &lt;code&gt;[текст](https://example.com)&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Markdown оказался удобным инструментом как для учебы, так и для повседневной работы с текстами. Он помогает быстро оформлять информацию и делает её более читаемой.&lt;/p&gt;
+&lt;p&gt;Освоение таких простых, но полезных технологий — важный шаг в развитии цифровых навыков и уверенной работы с информацией. 🚀&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Знакомство с GitHub</title>

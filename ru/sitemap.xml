@@ -54,37 +54,7 @@
       href="https://edzagidullina108.github.io/ru/courses/hugo-blox/guide/configuration/"
     /></url>
   <url>
-    <loc>https://edzagidullina108.github.io/ru/tags/github/</loc><lastmod>2026-03-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://edzagidullina108.github.io/ru/tags/programming/</loc><lastmod>2026-03-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://edzagidullina108.github.io/ru/publications/</loc><lastmod>2026-03-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://edzagidullina108.github.io/publications/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://edzagidullina108.github.io/ru/publications/"
-    /></url>
-  <url>
-    <loc>https://edzagidullina108.github.io/ru/tags/student-life/</loc><lastmod>2026-03-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://edzagidullina108.github.io/ru/tags/</loc><lastmod>2026-03-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://edzagidullina108.github.io/tags/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://edzagidullina108.github.io/ru/tags/"
-    /></url>
-  <url>
-    <loc>https://edzagidullina108.github.io/ru/tags/version-control/</loc><lastmod>2026-03-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://edzagidullina108.github.io/ru/publications/01/</loc><lastmod>2026-03-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
-  <url>
-    <loc>https://edzagidullina108.github.io/ru/blog/</loc><lastmod>2026-03-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+    <loc>https://edzagidullina108.github.io/ru/blog/</loc><lastmod>2026-03-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
       rel="alternate"
       hreflang="en"
       href="https://edzagidullina108.github.io/blog/"
@@ -94,9 +64,55 @@
       href="https://edzagidullina108.github.io/ru/blog/"
     /></url>
   <url>
-    <loc>https://edzagidullina108.github.io/ru/tags/business-informatics/</loc><lastmod>2026-03-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://edzagidullina108.github.io/ru/tags/business-informatics/</loc><lastmod>2026-03-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://edzagidullina108.github.io/ru/tags/university/</loc><lastmod>2026-03-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://edzagidullina108.github.io/ru/tags/digital-skills/</loc><lastmod>2026-03-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://edzagidullina108.github.io/ru/tags/markdown/</loc><lastmod>2026-03-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://edzagidullina108.github.io/tags/markdown/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://edzagidullina108.github.io/ru/tags/markdown/"
+    /></url>
+  <url>
+    <loc>https://edzagidullina108.github.io/ru/tags/programming/</loc><lastmod>2026-03-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://edzagidullina108.github.io/ru/publications/</loc><lastmod>2026-03-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://edzagidullina108.github.io/publications/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://edzagidullina108.github.io/ru/publications/"
+    /></url>
+  <url>
+    <loc>https://edzagidullina108.github.io/ru/tags/student-life/</loc><lastmod>2026-03-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://edzagidullina108.github.io/ru/tags/</loc><lastmod>2026-03-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
+      rel="alternate"
+      hreflang="en"
+      href="https://edzagidullina108.github.io/tags/"
+    /><xhtml:link
+      rel="alternate"
+      hreflang="ru"
+      href="https://edzagidullina108.github.io/ru/tags/"
+    /></url>
+  <url>
+    <loc>https://edzagidullina108.github.io/ru/tags/university/</loc><lastmod>2026-03-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://edzagidullina108.github.io/ru/blog/02/</loc><lastmod>2026-03-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://edzagidullina108.github.io/ru/publications/02/</loc><lastmod>2026-03-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://edzagidullina108.github.io/ru/tags/github/</loc><lastmod>2026-03-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://edzagidullina108.github.io/ru/tags/version-control/</loc><lastmod>2026-03-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://edzagidullina108.github.io/ru/publications/01/</loc><lastmod>2026-03-11T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://edzagidullina108.github.io/ru/blog/01/</loc><lastmod>2026-03-10T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
@@ -188,16 +204,6 @@
       rel="alternate"
       hreflang="ru"
       href="https://edzagidullina108.github.io/ru/tags/hugoblox/"
-    /></url>
-  <url>
-    <loc>https://edzagidullina108.github.io/ru/tags/markdown/</loc><lastmod>2023-10-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
-      rel="alternate"
-      hreflang="en"
-      href="https://edzagidullina108.github.io/tags/markdown/"
-    /><xhtml:link
-      rel="alternate"
-      hreflang="ru"
-      href="https://edzagidullina108.github.io/ru/tags/markdown/"
     /></url>
   <url>
     <loc>https://edzagidullina108.github.io/ru/projects/pandas/</loc><lastmod>2023-10-26T00:00:00+00:00</lastmod><changefreq>weekly</changefreq><xhtml:link
