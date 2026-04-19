@@ -5,12 +5,52 @@
     <link>https://edzagidullina108.github.io/ru/publications/</link>
       <atom:link href="https://edzagidullina108.github.io/ru/publications/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sun, 29 Mar 2026 00:00:00 +0000</lastBuildDate>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sun, 19 Apr 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://edzagidullina108.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
       <title>Publications</title>
       <link>https://edzagidullina108.github.io/ru/publications/</link>
     </image>
+    
+    <item>
+      <title>Языки научного программирования</title>
+      <link>https://edzagidullina108.github.io/ru/publications/04/</link>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://edzagidullina108.github.io/ru/publications/04/</guid>
+      <description>&lt;h2 id=&#34;-языки-научного-программирования&#34;&gt;🔬 Языки научного программирования&lt;/h2&gt;
+&lt;p&gt;Современные научные исследования невозможно представить без программирования. Языки научного программирования позволяют обрабатывать большие объёмы данных, строить модели и проводить сложные вычисления.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🐍 &lt;strong&gt;Python&lt;/strong&gt; — один из самых популярных языков благодаря своей простоте и мощным библиотекам для анализа данных, машинного обучения и визуализации.&lt;/li&gt;
+&lt;li&gt;📊 &lt;strong&gt;R&lt;/strong&gt; — широко используется в статистике и анализе данных, особенно в академической среде. Отличается богатым набором инструментов для работы с графиками и статистическими моделями.&lt;/li&gt;
+&lt;li&gt;⚙️ &lt;strong&gt;MATLAB&lt;/strong&gt; — применяется для численных вычислений, моделирования и разработки алгоритмов, особенно в инженерных и технических областях.&lt;/li&gt;
+&lt;li&gt;🔢 &lt;strong&gt;Julia&lt;/strong&gt; — современный язык, ориентированный на высокую производительность и научные расчёты, сочетает удобство Python и скорость компилируемых языков.&lt;/li&gt;
+&lt;li&gt;💻 &lt;strong&gt;Fortran&lt;/strong&gt; — один из старейших языков, который до сих пор используется в высокопроизводительных вычислениях и научных моделях.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Языки научного программирования помогают исследователям быстрее получать результаты и проверять гипотезы, автоматизируя сложные вычисления.&lt;/p&gt;
+&lt;p&gt;📈 Их выбор зависит от задачи: для анализа данных подойдёт Python или R, для инженерных расчётов — MATLAB, а для высокопроизводительных вычислений — Julia или Fortran.&lt;/p&gt;
+&lt;p&gt;Освоение этих инструментов открывает широкие возможности в науке, аналитике и разработке инновационных решений. 🚀&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Создание презентаций</title>
+      <link>https://edzagidullina108.github.io/ru/publications/03/</link>
+      <pubDate>Sun, 05 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://edzagidullina108.github.io/ru/publications/03/</guid>
+      <description>&lt;h2 id=&#34;-создание-презентаций&#34;&gt;🎤 Создание презентаций&lt;/h2&gt;
+&lt;p&gt;На этой неделе особое внимание я уделила развитию навыков создания презентаций — важной части учебного и профессионального процесса.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🧠 Мы изучали, как правильно &lt;strong&gt;структурировать информацию&lt;/strong&gt;, чтобы материал воспринимался логично и последовательно.&lt;/li&gt;
+&lt;li&gt;🎨 Отдельный акцент сделали на &lt;strong&gt;дизайне слайдов&lt;/strong&gt;: минимализм, читаемость и единый стиль помогают лучше донести идею.&lt;/li&gt;
+&lt;li&gt;💻 Осваивали инструменты для создания презентаций и учились эффективно использовать их возможности.&lt;/li&gt;
+&lt;li&gt;📊 Практиковались в визуализации данных — диаграммы и графики позволяют сделать информацию более наглядной.&lt;/li&gt;
+&lt;li&gt;🗣️ Обсуждали навыки &lt;strong&gt;публичного выступления&lt;/strong&gt; и способы удержания внимания аудитории.&lt;/li&gt;
+&lt;li&gt;📚 В рамках самостоятельной работы я создала собственную презентацию, применяя полученные знания на практике.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Я поняла, что хорошая презентация — это не просто набор слайдов, а продуманная история, которая помогает донести ключевые идеи.&lt;/p&gt;
+&lt;p&gt;Навыки создания презентаций становятся всё более востребованными, особенно в сфере &lt;strong&gt;бизнес-информатики&lt;/strong&gt;, где важно не только анализировать данные, но и уметь грамотно их представить. ✨&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Язык разметки Markdown</title>

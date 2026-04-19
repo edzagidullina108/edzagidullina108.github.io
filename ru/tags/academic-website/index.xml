@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic Website | </title>
+    <link>https://edzagidullina108.github.io/ru/tags/academic-website/</link>
+      <atom:link href="https://edzagidullina108.github.io/ru/tags/academic-website/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic Website</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sun, 19 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://edzagidullina108.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Academic Website</title>
+      <link>https://edzagidullina108.github.io/ru/tags/academic-website/</link>
+    </image>
+    
+    <item>
+      <title>Сайт научного работника на Hugo Academic</title>
+      <link>https://edzagidullina108.github.io/ru/projects/hugo/</link>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://edzagidullina108.github.io/ru/projects/hugo/</guid>
+      <description>&lt;h2 id=&#34;-сайт-научного-работника-на-hugo-academic&#34;&gt;🌐 Сайт научного работника на Hugo Academic&lt;/h2&gt;
+&lt;p&gt;Персональный сайт стал важной частью профессионального профиля исследователя. Он позволяет представить научные интересы, публикации и проекты в удобной и структурированной форме.&lt;/p&gt;
+&lt;p&gt;Одним из популярных решений для создания такого сайта является &lt;strong&gt;Hugo&lt;/strong&gt; — статический генератор сайтов, который отличается высокой скоростью работы и простотой развертывания. В сочетании с темой &lt;strong&gt;Academic&lt;/strong&gt; (ныне известной как Wowchemy) он предоставляет готовую основу для академического портфолио.&lt;/p&gt;
+&lt;h3 id=&#34;-основные-возможности&#34;&gt;⚙️ Основные возможности&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;📄 Размещение &lt;strong&gt;публикаций&lt;/strong&gt;, включая статьи, конференции и препринты&lt;/li&gt;
+&lt;li&gt;👤 Раздел с &lt;strong&gt;биографией&lt;/strong&gt; и научными интересами&lt;/li&gt;
+&lt;li&gt;📊 Представление &lt;strong&gt;проектов&lt;/strong&gt; и исследовательской деятельности&lt;/li&gt;
+&lt;li&gt;📰 Ведение &lt;strong&gt;блога&lt;/strong&gt; для научных заметок и новостей&lt;/li&gt;
+&lt;li&gt;📚 Автоматическое оформление библиографии и списков литературы&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-преимущества-использования&#34;&gt;🚀 Преимущества использования&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;⚡ Высокая скорость загрузки благодаря статической генерации&lt;/li&gt;
+&lt;li&gt;🎨 Готовые шаблоны и адаптивный дизайн&lt;/li&gt;
+&lt;li&gt;🔧 Гибкая настройка через конфигурационные файлы&lt;/li&gt;
+&lt;li&gt;🌍 Простое размещение на платформах вроде GitHub Pages&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;-как-начать&#34;&gt;🛠️ Как начать&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;Установить &lt;strong&gt;Hugo&lt;/strong&gt; на компьютер&lt;/li&gt;
+&lt;li&gt;Создать новый проект сайта&lt;/li&gt;
+&lt;li&gt;Подключить тему Academic (Wowchemy)&lt;/li&gt;
+&lt;li&gt;Заполнить базовую информацию: профиль, публикации, проекты&lt;/li&gt;
+&lt;li&gt;Запустить локальный сервер и проверить результат&lt;/li&gt;
+&lt;li&gt;Опубликовать сайт онлайн&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Создание собственного сайта помогает исследователю повысить видимость своих работ, упростить доступ к результатам исследований и сформировать профессиональный имидж.&lt;/p&gt;
+&lt;p&gt;Такой сайт становится не просто визитной карточкой, а полноценной платформой для представления научной деятельности и взаимодействия с академическим сообществом. ✨&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

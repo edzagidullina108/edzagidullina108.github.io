@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science | </title>
+    <link>https://edzagidullina108.github.io/ru/tags/data-science/</link>
+      <atom:link href="https://edzagidullina108.github.io/ru/tags/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data Science</description>
+    <generator>HugoBlox Kit (https://hugoblox.com)</generator><language>ru-ru</language><lastBuildDate>Sun, 19 Apr 2026 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://edzagidullina108.github.io/media/icon_hu_fb558a5ed99f547e.png</url>
+      <title>Data Science</title>
+      <link>https://edzagidullina108.github.io/ru/tags/data-science/</link>
+    </image>
+    
+    <item>
+      <title>Языки научного программирования</title>
+      <link>https://edzagidullina108.github.io/ru/publications/04/</link>
+      <pubDate>Sun, 19 Apr 2026 00:00:00 +0000</pubDate>
+      <guid>https://edzagidullina108.github.io/ru/publications/04/</guid>
+      <description>&lt;h2 id=&#34;-языки-научного-программирования&#34;&gt;🔬 Языки научного программирования&lt;/h2&gt;
+&lt;p&gt;Современные научные исследования невозможно представить без программирования. Языки научного программирования позволяют обрабатывать большие объёмы данных, строить модели и проводить сложные вычисления.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;🐍 &lt;strong&gt;Python&lt;/strong&gt; — один из самых популярных языков благодаря своей простоте и мощным библиотекам для анализа данных, машинного обучения и визуализации.&lt;/li&gt;
+&lt;li&gt;📊 &lt;strong&gt;R&lt;/strong&gt; — широко используется в статистике и анализе данных, особенно в академической среде. Отличается богатым набором инструментов для работы с графиками и статистическими моделями.&lt;/li&gt;
+&lt;li&gt;⚙️ &lt;strong&gt;MATLAB&lt;/strong&gt; — применяется для численных вычислений, моделирования и разработки алгоритмов, особенно в инженерных и технических областях.&lt;/li&gt;
+&lt;li&gt;🔢 &lt;strong&gt;Julia&lt;/strong&gt; — современный язык, ориентированный на высокую производительность и научные расчёты, сочетает удобство Python и скорость компилируемых языков.&lt;/li&gt;
+&lt;li&gt;💻 &lt;strong&gt;Fortran&lt;/strong&gt; — один из старейших языков, который до сих пор используется в высокопроизводительных вычислениях и научных моделях.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Языки научного программирования помогают исследователям быстрее получать результаты и проверять гипотезы, автоматизируя сложные вычисления.&lt;/p&gt;
+&lt;p&gt;📈 Их выбор зависит от задачи: для анализа данных подойдёт Python или R, для инженерных расчётов — MATLAB, а для высокопроизводительных вычислений — Julia или Fortran.&lt;/p&gt;
+&lt;p&gt;Освоение этих инструментов открывает широкие возможности в науке, аналитике и разработке инновационных решений. 🚀&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
